@@ -1,0 +1,65 @@
+/*Estilo para la Dropdown de la Navbar*/
+.prueba{
+    color: white;
+    font-family: 'Helvetica Neue', sans-serif; 
+    font-weight: bold;
+}
+.pruebafondo{
+    background-color: darkred;
+}
+
+/*Estilo para la navbar*/
+.titulo{
+    color: #111; font-family: 'Helvetica Neue', sans-serif; 
+    font-weight: bold; 
+    font-size: 50px; 
+    letter-spacing: -1px; 
+    line-height: 1;
+}
+nav.navbar {
+    background-color: #222831;
+}
+nav.navbar ul.nav li {
+    font-family: "Helvetica Neue", sans-serif;
+}
+
+.prueba1234{
+    color: #111; font-family: 'Helvetica Neue', sans-serif; 
+    font-weight: bold; 
+    font-size: 50px; 
+    letter-spacing: -1px; 
+    line-height: 1;
+}
+.navbar-brand,
+.navbar-nav li a {
+    line-height: 75px;
+    height: 75px;
+    padding-top: 0;
+}
+/*Estilo de la caja de "Que es el LARP?" para que tenga un padding con la caja de arriba*/
+.pruebamammamia{
+    padding-top: 20px;
+}
+/*Estilo del Fondo, donde se repite una imagen a lo largo de la pantalla*/
+body{
+        background-image: url(https://previews.123rf.com/images/ylivdesign/ylivdesign1704/ylivdesign170406782/76581978-patr%C3%B3n-de-espada-larga-incons%C3%BAtil-en-la-ilustraci%C3%B3n-de-vector-de-estilo-simple.jpg);
+        background-repeat:initial;
+}
+/*Fondo de la hoja de Registro y de Iniciar Sesion*/
+.fondo2{
+    background-color:#F5F5DC;
+}
+/*Padding del la DropDown, para que no haya padding*/
+.dropdown-menu{
+    padding: 0%;
+}
+/*Para que las imagenes se alineen a la Izq. en los documentos de la tienda*/
+.pruebaimagen{
+    float: left;
+}
+
+/*Estilo del Footer*/
+footer{
+    background-color: #222831;
+    color: white;
+}
