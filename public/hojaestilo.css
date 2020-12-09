@@ -7,7 +7,9 @@
 .pruebafondo{
     background-color: darkred;
 }
-
+.dropdown-menu{
+    transform: translate3d(5px, 35px, 0px)!important;
+}
 /*Estilo para la navbar*/
 .titulo{
     color: #111; font-family: 'Helvetica Neue', sans-serif; 
